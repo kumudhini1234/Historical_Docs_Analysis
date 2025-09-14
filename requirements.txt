@@ -1,0 +1,8 @@
+notebook
+ipywidgets
+ollama
+langchain
+langchain_openai
+pandas
+pyarrow
+matplotlib
